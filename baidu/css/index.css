@@ -1,0 +1,125 @@
+#header{
+    text-align: right;
+    margin: 19px 0 5px 0;
+}
+
+#header a{
+    margin-left: 20px;
+    font-size: 13px;
+    color: #333;
+    font-weight: bold;
+}
+
+#header .login{
+    font-weight: normal;
+}
+
+#header .setting{
+    font-weight: normal;
+}
+
+#header .moreProduct{
+    display: inline-block;
+    background-color:#38f;
+    color: white;
+    font-size: 13px;
+    width: 60px;
+    height: 23px;
+    text-align: center;
+    line-height: 24px;
+}
+
+#content{
+    text-align: center;
+    margin-top: 200px;
+}
+
+#content .logo img{
+    width: 270px;
+    height: 129px;
+}
+
+#content input{
+    width: 460px;
+    height: 24px;
+    outline: none;
+}
+
+#content input:focus{
+    border-color: royalblue;
+}
+
+#content a{
+    display: inline-block;
+    background-color:#38f;
+    color: white;
+    font-size: 13px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    line-height: 2.4;
+    margin-left: -4px;
+}
+
+#footer{
+    height: 100px;
+    width: 100%;
+    margin-top: 45%;
+}
+
+#footer .qrcode{
+    display: inline-block;
+}
+
+#footer .qrcodeFirst{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+#footer .qrcodeSecond{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#footer .qrcodeFirstImage {
+    display: inline-block;
+    position: relative;
+    top: 7px;
+}
+
+#footer .qrcodeFirstText{
+    display: inline-block;
+    font: 14px arial;
+}
+
+#footer .kuairenyibu{
+    color: #999;
+}
+
+#footer .qrcodeSecondImage {
+    display: inline-block;
+    position: relative;
+    top: 7px;
+}
+
+#footer .qrcodeSecondText{
+    display: inline-block;
+    font: 14px arial;
+}
+
+#footer .yiyuandacan{
+    color: #999;
+}
+
+#footer .ftCon{
+    display: inline-block;
+    margin-left: 33px;
+
+}
+
+#footer .ftCon a{
+    color: #999;
+    margin-left: 33px;
+    margin-top: 20px;
+    font: 12px arial;
+}
